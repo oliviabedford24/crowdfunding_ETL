@@ -6,4 +6,6 @@ We were given two xlsx files as part of our starter code to work with. We used t
 
 We then used pgAdmin SQL to create a table schema to link our csv's to one another, then generated an ERD diagram to visualize the relationship. 
 
-The code contained in this repository is our work. We received advice and input from our instructors, but the work is ours alone.
+The code contained in this repository is our original work.
+
+Thank you!
